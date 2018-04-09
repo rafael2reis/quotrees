@@ -1,5 +1,5 @@
 # QuoTrees 1.0
-The first corpus in Portuguese fully annotated with direct and indirect quotations
+The first corpus in Portuguese fully annotated with direct and indirect quotations. We split it into a training and a test sets.
 
 ## Descriptive Statistics
 
